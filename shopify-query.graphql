@@ -1,0 +1,38 @@
+query GetProductsWithImages {
+  products(first: 50) {
+    edges {
+      node {
+        id
+        title
+        handle
+        description
+        productType
+        vendor
+        priceRangeV2 {
+          minVariantPrice {
+            amount
+            currencyCode
+          }
+        }
+        images(first: 1) {
+          edges {
+            node {
+              url(transform: {maxWidth: 400, maxHeight: 300})
+              altText
+            }
+          }
+        }
+        variants(first: 1) {
+          edges {
+            node {
+              id
+              title
+              price
+              availableForSale
+            }
+          }
+        }
+      }
+    }
+  }
+}

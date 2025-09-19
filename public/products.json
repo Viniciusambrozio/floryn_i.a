@@ -1,0 +1,1454 @@
+[
+  {
+    "id": "gid://shopify/Product/7807412535375",
+    "name": "SCANDAL EAU DE PARFUM",
+    "brand": "Jean Paul Gaultier",
+    "description": "Uma fonte inesgotável de inspiração para Jean Paul Gaultier, onde a elegância encontra a ousadia, e o escândalo se torna uma forma de arte. Em Scandal Eau de Parfum, Gaultier captura a essência vibrante da capital francesa, celebrando uma feminilidade tão elegante quanto festiva e tão autoconfiante quanto sexy.\nAssim como Paris é um palco para momentos ousados, Scandal brinda a feminilidade dessa cidade que inspira paixão e liberdade. A fragrância é uma viagem pelos bairros efervescentes da Cidade Luz, em que cada esquina é um convite para explorar esse universo único que somente a capital francesa possui.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/4_d8c7cee2-0a3d-4fc8-9bef-ce02bf476189_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/scandal-le-parfum-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.70306586250754,
+    "reviews": 112
+  },
+  {
+    "id": "gid://shopify/Product/7807404998735",
+    "name": "CHLOÉ EAU DE PARFUM",
+    "brand": "Chloé",
+    "description": "Criado pelos perfumistas Amandine Clerc-Marie e Michel Almairac. Família olfativa: floral fresco, com assinatura elegante, delicada e romântica, combina romantismo com uma fixação suave e polida.",
+    "price": 59.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/29_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/chloe-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.503170572961913,
+    "reviews": 159
+  },
+  {
+    "id": "gid://shopify/Product/7807397036111",
+    "name": "FAME – EAU DE PARFUM",
+    "brand": "Paco Rabanne",
+    "description": "A fragrância feminina sensual de Rabanne. Sedutora, irresistível; você é a it-girl parisiense definitiva que captura todos os olhares. Todos os olhos estão em você. FAME EDP coloca você no centro das atenções da festa. Porque você nasceu para brilhar. Criada com o espírito vanguardista característico de Rabanne, FAME EDP é uma mistura cativante de jasmim excepcionalmente puro, manga suculenta e incenso cremoso e viciante que faz você brilhar intensamente. FAME EDP de Rabanne é formulado de maneira responsável, com os ingredientes mais preciosos e obtidos de forma ética.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/8_0ac54d45-2323-4b56-8fd1-d55910a2f3a1_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/fame-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.733906807471092,
+    "reviews": 172
+  },
+  {
+    "id": "gid://shopify/Product/7807412928591",
+    "name": "SABAH AL WARD EAU DE PARFUM",
+    "brand": "Sabah",
+    "description": "Sabah Al Ward (traduzido como \"manhã de rosa\") é um Eau de Parfum feminino da casa Al Wataniah, originária dos Emirados Árabes Unidos, da linha Dubai. Seu foco é transmitir mistério, sedução e sofisticação por meio de uma fragrância oriental-floral envolvente.",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/5_08c05792-a49c-4870-94f5-9084521fc8d1_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/sabah-al-ward-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.7641871830056015,
+    "reviews": 98
+  },
+  {
+    "id": "gid://shopify/Product/7825125834831",
+    "name": "COCONUT PASSION SHIMMER",
+    "brand": "Floryn",
+    "description": "Descubra o instante de glamour com Coconut Passion Shimmer, uma bruma corporal da Victoria’s Secret que une a doçura tropical do coco e baunilha com realce de partículas de brilho sutil. Essa fragrância gourmand é refrescante e envolvente, evocando a sensação de dias ensolarados à beira-mar. Ideal para o uso diário, com um toque luminoso que destaca a pele.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/12_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/coconut-passion-shimmer",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.559061436485713,
+    "reviews": 15
+  },
+  {
+    "id": "gid://shopify/Product/7807411912783",
+    "name": "212 SEXY EAU DE PARFUM",
+    "brand": "carolina herrera",
+    "description": " Crie looks eye-conic em uma única passada com o novo Chic Sombra de Olhos em Stick, uma luxuosa sombra cremosa em bastão que desliza suavemente sobre as pálpebras, entregando uma cor intensa em 8 tonalidades cintilantes e matte que refletem a visão de elegância de Herrera. Macia, cremosa e versátil, esta sombra multifuncional possui uma ponta chanfrada que permite esfumar, misturar, preencher ou definir com precisão. Liberte seu olhar magnético e deixe seus olhos falarem por você, seja com um toque sutil de cor ou um ousado esfumado. Sua inovadora fórmula vegana conta com o Chroma Pure Pigment System, que satura as pálpebras com cores vibrantes e altamente pigmentadas, enquanto uma combinação de ceras sedosas garante uma aplicação suave e sem atrito. Camadas leves proporcionam 24 horas de resistência à água, à transferência, ao borrão e ao acúmulo nas linhas. Para um olhar impactante, complete seu visual com Fabulous Eyes Mascara para definir os cílios e Fabulous Eyeliner para adicionar profundidade e precisão.",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/9_96ec8029-735d-43d2-9fb9-3165ffba3d39_400x300_crop_center.png?v=1757792667",
+    "product_url": "https://floryn.com.br/products/212-sexy-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.609942564823226,
+    "reviews": 186
+  },
+  {
+    "id": "gid://shopify/Product/7807411519567",
+    "name": "212 VIP ROSÉ EAU DE PARFUM",
+    "brand": "carolina herrera",
+    "description": "Uma nota de saída vibrante de champagne rosé é complementada por uma nota de coração leve e sedutora da flor de pêssego. O luxuoso Queenwood e o âmbar radiante completam a alegre base feminina.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/32_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/212-vip-rose-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.687014081703207,
+    "reviews": 201
+  },
+  {
+    "id": "gid://shopify/Product/7847028392015",
+    "name": "MONTBLANC SIGNATURE EAU DE PARFUM",
+    "brand": "Floryn",
+    "description": "Montblanc Signature Eau de Parfum é uma fragrância elegante e envolvente, criada para mulheres modernas que combinam delicadeza com personalidade marcante. Seu acorde inicial cremoso e levemente cítrico evolui para um coração floral sofisticado, finalizando em uma base quente e acolhedora. Um perfume versátil que transmite confiança e feminilidade em qualquer ocasião.\n\n✨ Ocasiões ideais\n • Dia a dia no trabalho ou reuniões\n • Almoços e encontros casuais\n • Eventos sociais leves e elegantes\n • Uso como assinatura para todas as estações\n\n🌸 Notas olfativas\n • Notas de saída: clementina\n • Notas de coração: magnólia, ylang-ylang, peônia\n • Notas de fundo: baunilha, benjoim, almíscar branco\n\n⏳ Fixação\n\nBoa fixação (6 a 8 horas na pele), com projeção moderada, perfeita para transmitir presença marcante sem exageros.",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/37_400x300_crop_center.png?v=1758059648",
+    "product_url": "https://floryn.com.br/products/montblanc-signature-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.17482500889346,
+    "reviews": 206
+  },
+  {
+    "id": "gid://shopify/Product/7847027966031",
+    "name": "DELINA LA ROSÉE PARFUMS DE MARLY EAU DE PARFUM",
+    "brand": "Floryn",
+    "description": "Delina Royal Essence é uma fragrância sofisticada, feminina e envolvente, perfeita para quem busca marcar presença com elegância. Seu frescor inicial de lichia, ruibarbo e bergamota abre caminho para um buquê floral luxuoso de rosa turca, peônia e baunilha, criando uma combinação ao mesmo tempo delicada e intensa. O fundo amadeirado e almiscarado garante fixação prolongada e uma assinatura olfativa inesquecível.\n\nOcasiões ideais\n • Jantares românticos\n • Eventos sociais e formais\n • Festas à noite\n • Momentos em que você quer se destacar com feminilidade e poder\n\nNotas olfativas\n • Notas de saída: lichia, ruibarbo, bergamota, noz-moscada\n • Notas de coração: rosa turca, peônia, baunilha, almíscar\n • Notas de fundo: madeira de caxemira, incenso, vetiver, cedro\n\nFixação\n\nAlta durabilidade (8 a 12 horas na pele), com projeção marcante nas primeiras horas.",
+    "price": 159.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/38_400x300_crop_center.png?v=1758059491",
+    "product_url": "https://floryn.com.br/products/delina-parfums-de-marly-feminino-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.631652529426786,
+    "reviews": 192
+  },
+  {
+    "id": "gid://shopify/Product/7825129177167",
+    "name": "COCONUT PASSION - CREME CORPORAL",
+    "brand": "Floryn",
+    "description": "Descubra o paraíso tropical com Coconut Passion, a loção corporal da Victoria’s Secret que combina a doçura do coco com a suavidade da baunilha. com textura cremosa e hidratação duradoura, ela deixa a pele macia, perfumada e com aquele toque exótico e irresistível que é a cara do verão.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/1_76d6bec6-fe1b-46c4-b507-aa75b946a783_400x300_crop_center.png?v=1757792667",
+    "product_url": "https://floryn.com.br/products/coconut-passion-creme-corporal",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.4138615286108625,
+    "reviews": 110
+  },
+  {
+    "id": "gid://shopify/Product/7825129046095",
+    "name": "BARE VANILLA SHIMMER - CREME CORPORAL",
+    "brand": "Floryn",
+    "description": "Envolva sua pele em brilho e sensualidade com Bare Vanilla Shimmer, a loção iluminadora da Victoria’s Secret que combina a cremosidade da baunilha com um toque quente de âmbar. sua fórmula hidratante é enriquecida com partículas cintilantes que realçam o brilho natural da pele, deixando um rastro doce e sofisticado por onde você passar. ideal para quem ama fragrâncias gourmand com um toque glamouroso.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/2_a6517cad-3d65-404c-87f5-2fc60094b293_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/bare-vanilla-shimmer-creme-corporal",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "oriental",
+    "intensity": "moderate",
+    "season": [
+      "autumn",
+      "winter"
+    ],
+    "top_notes": [
+      "baunilha",
+      "canela"
+    ],
+    "heart_notes": [
+      "âmbar",
+      "jasmim"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.837327033233526,
+    "reviews": 38
+  },
+  {
+    "id": "gid://shopify/Product/7825125965903",
+    "name": "AQUA KISS SHIMMER",
+    "brand": "Floryn",
+    "description": "Mergulhe na leveza e no brilho com Aqua Kiss Shimmer, a bruma corporal iluminadora da Victoria’s Secret que combina frescor aquático com um toque floral envolvente. Sua fórmula é enriquecida com partículas cintilantes que deixam a pele radiante, além de proporcionar uma sensação revigorante e delicada. Perfeita para quem ama fragrâncias leves com um toque de glamour.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/11_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/aqua-kiss-shimmer",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.653318921924518,
+    "reviews": 167
+  },
+  {
+    "id": "gid://shopify/Product/7825119871055",
+    "name": "BARE VANILLA",
+    "brand": "Floryn",
+    "description": "Abrace a doçura com o Doce Essência de Baunilha. Uma fragrância irresistível de baunilha pura com um toque aveludado de âmbar, feita para quem ama aromas doces e envolventes. Perfeita para o dia a dia, encontros ou momentos de autocuidado.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/14_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/bare-vanilla",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "oriental",
+    "intensity": "moderate",
+    "season": [
+      "autumn",
+      "winter"
+    ],
+    "top_notes": [
+      "baunilha",
+      "canela"
+    ],
+    "heart_notes": [
+      "âmbar",
+      "jasmim"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.278847475720943,
+    "reviews": 195
+  },
+  {
+    "id": "gid://shopify/Product/7825118724175",
+    "name": "MIDNIGHT BLOOM",
+    "brand": "Floryn",
+    "description": "Deixe-se envolver pela magia da noite com o Encanto da Meia-Noite. Uma fragrância floral envolvente com toque de madeira quente, perfeita para mulheres que querem marcar presença com elegância e mistério. Ideal para momentos especiais ou para dar um toque sofisticado ao dia a dia.",
+    "price": 179.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/13_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/midnight-bloom",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.217364384472339,
+    "reviews": 129
+  },
+  {
+    "id": "gid://shopify/Product/7824844521551",
+    "name": "212 NYC EAU DE TOILETTE",
+    "brand": "carolina herrera",
+    "description": "O 212 NYC Eau de Toilette da Carolina Herrera é uma fragrância icônica que captura a essência vibrante e dinâmica da cidade de Nova York. Inspirado na energia pulsante de Manhattan, este perfume é uma expressão de confiança e liberdade, projetado para mulheres criativas e elegantes que vivem a vida com intensidade.",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/15_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/212-nyc-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.996638931344084,
+    "reviews": 23
+  },
+  {
+    "id": "gid://shopify/Product/7824813391951",
+    "name": "LADY MILLION EAU DE PARFUM",
+    "brand": "Paco Rabanne",
+    "description": "Lady Million Eau de Parfum, de Rabanne, é um perfume importado feminino e faz parte dos best-sellers da perfumaria. Rabanne criou Lady Million inspirado em uma mulher de atitude frente aos holofotes – a mulher de ouro! Viciante ao limite da obsessão, o perfume floral amadeirado convida a mulher a ser deslumbrante. Brinque com o fogo, não obedeça a ninguém e desarme a tudo e a todos. O néctar floral e glamuroso sem inibições que a sensualidade da mulher Lady Million merece. A rica fragrância feminina combina as flores brancas do jasmin árabe e da laranjeira em seu coração com uma proposta fresca e flamejante de neróli, laranja amarga e framboesa.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/6_702549b3-1507-4924-9610-ba2adab4e0af_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/lady-million-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.131277181051294,
+    "reviews": 142
+  },
+  {
+    "id": "gid://shopify/Product/7824811393103",
+    "name": "GOOD GIRL  EAU DE PARFUM",
+    "brand": "carolina herrera",
+    "description": "As qualidades doces e fascinantes do jasmim trazem ao Good Girl o brilho da feminilidade. O rico aroma do cacau e o inebriante cumaru expressam o lado misterioso do Good Girl, enquanto a amêndoa e o café trazem notas de uma ousada vivacidade.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/16_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/good-girl-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.354620316138616,
+    "reviews": 159
+  },
+  {
+    "id": "gid://shopify/Product/7807412207695",
+    "name": "212 VIP EAU DE PARFUM",
+    "brand": "carolina herrera",
+    "description": "O perfume 212 VIP é definido pelo inebriante rum destilado da cana-de-açúcar e envelhecido em barris de carvalho. Esta combinação doce, porém amadeirada, evolui para as notas do exótico maracujá, resultando em um perfume deliciosamente glamoroso",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/35_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/212-vip-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.467896648906964,
+    "reviews": 149
+  },
+  {
+    "id": "gid://shopify/Product/7807409619023",
+    "name": "DOLCE & GABBANA LIGHT BLUE EAU DE TOILLETE",
+    "brand": "DOLCE & GABBANA",
+    "description": " O perfume masculino Sauvage Eau de Toilette é um ato de criação inspirado no ar livre. Um céu azul de ozônio dominando um deserto mineral incandescente. O hálito cítrico em overdose de Sauvage EDT é fortemente apoiado pela nobreza âmbar do ambroxan, elemi resinoso e madeiras de ligação. Reconhecível entre todos, é um verdadeiro rastro de assinatura que se impôs, único *, na sua virilidade assumida. Como um hálito intenso e fresco, o perfume amadeirado masculino, Sauvage Dior Eau de Toilette, é uma composição direta para um homem autêntico e verdadeiro.",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/10_42c80616-4709-4365-b365-caf315ffb162_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/dolce-gabbana-light-blue-eau-de-toillete",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.1655760911654,
+    "reviews": 21
+  },
+  {
+    "id": "gid://shopify/Product/7807404539983",
+    "name": "LA VIE EST BELLE EAU DE PARFUM",
+    "brand": "Lancôme",
+    "description": " O Eau de Parfum La Vie Est Belle é a primeira fragrância feminina enriquecida com Iris, criada exclusivamente para Lancôme por três dos mais renomados perfumistas franceses. Um perfume de alta projeção com um rastro poderoso, com um equilíbrio perfeito entre a nobreza de Iris Pallida, a profundidade do Patchouli e um inebriante acorde de baunilha, criando o aroma perfeito da felicidade.",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/28_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/la-vie-est-belle-eau-de-parfum-1",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.69251830391117,
+    "reviews": 133
+  },
+  {
+    "id": "gid://shopify/Product/7807403917391",
+    "name": "OLYMPEA EAU DE PARFUM",
+    "brand": "Paco Rabanne",
+    "description": " Olympéa Eau De Parfum 30ml, de Paco Rabanne, é um perfume importado feminino e faz parte dos best-sellers da perfumaria. A fragrância invoca a força e o poder de Olímpia, a deusa grega mitológica. Ela veio para devolver o poder à deusa dos tempos atuais. Transforma a mulher em um verdadeiro ícone – absoluto, fascinante e único! Sob seus saltos, a terra estremece e seu perfume cativa. A deusa contemporânea requer um aroma fresco, poderoso e sedutor, para todos caírem aos seus pés.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/24_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/la-vie-est-belle-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.9904646661935415,
+    "reviews": 209
+  },
+  {
+    "id": "gid://shopify/Product/7807398608975",
+    "name": "MISS DIOR EAU DE PARFUM",
+    "brand": "Dior",
+    "description": " Ecoando seu caráter inspirador, o novo perfume Miss Dior Eau de Parfum é como um “millefiori” olfativo. Rosa Centifolia, com suas notas mel e apimentadas, reina sobre um coração aveludado deliciosamente cremoso. O Eau de Parfum Miss Dior é bordado com notas frescas de lírio-do-vale, um acorde de peônia com toque de damasco e notas atalcadas de íris. Miss Dior é assim construído em torno de um buquê elegante e marcante - como um “millefiori” que parece carregar inúmeras flores em cores infinitas. Na base, ligeiras notas de madeira tenra envolvem a composição. Agora, o Miss Dior Eau de Parfum ostenta um laço vibrante e pontilhista de altacostura, com uma variedade verdadeiramente única de florais. Como tal, alguns centímetros de puro luxo são amarrados em volta do pescoço do frasco. Por baixo do frasco, o emblemático design de houndstooth de Miss Dior está gravado no vidro.",
+    "price": 59.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/30_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/miss-dior-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "special"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "F",
+    "available": true,
+    "rating": 4.2239468372513045,
+    "reviews": 70
+  },
+  {
+    "id": "gid://shopify/Product/7821240303695",
+    "name": "SILVER SCENT INTENSE EAU DE TOILETTE",
+    "brand": "Silver Scent",
+    "description": "Silver Scent Intense é a escolha ideal para homens que querem deixar uma marca olfativa poderosa. Com uma abertura cítrica vibrante que revela flor de laranjeira e limão, evolui para um coração aromático e levemente especiado com lavanda, gerânio e noz-moscada, terminando em um fundo profundo com tonka, oud e vetiver – atingindo o melhor equilíbrio entre doçura, masculinidade e sofisticação. A fixação e projeção notáveis fazem desse perfume um verdadeiro “beast” versátil, perfeito para a noite ou para conquistar atenção, especialmente em climas mais frios. Uma excelente opção para quem deseja um perfume marcante.",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/17_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/silver-scent-intese-eau-de-toillete",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.52278434575793,
+    "reviews": 133
+  },
+  {
+    "id": "gid://shopify/Product/7807405228111",
+    "name": "ONE MILLION EAU DE TOILETTE",
+    "brand": "Paco Rabanne",
+    "description": "One Million é o perfume importado masculino icônico de Paco Rabanne. O maior best-seller da perfumaria masculina. Seja flamejante! Aprecie os desafios da vida e mostre o seu brilho. Exiba sua singularidade, viva no limite e mostre sua excelência. Viver não significa seguir todas as regras e, com 1 Million, você tem o poder de ditá-las. Um perfume Eau de Toilette feito para homens intrigantes e cavalheiros, capazes de cativar e seduzir sem muito esforço. Inspirado na ambiguidade do frescor do couro, mostra a classe, o espírito e a paixão do homem. O perfume apresenta os fantásticos aromas genuínos do couro e do âmbar como assinatura da fragrância chamativa, refrescante e picante, que impressiona desde as primeiras notas. Sua complexidade combina toques de tangerina e hortelã com um extra especiado de canela e rosas para um frescor acentuado. O aroma quente e sedutor fecha com notas amadeiradas e o patchouli. O frasco em formato de uma valiosa barra de ouro é marcante e icônico de Paco Rabanne e do universo de fragrâncias. Precioso e de formas perfeitas, inspirado no mundo arquitetônico e metálico da moda da marca.",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/31_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/one-million-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.4899635785703795,
+    "reviews": 15
+  },
+  {
+    "id": "gid://shopify/Product/7807414304847",
+    "name": "INVICTUS EAU DE TOILETTE",
+    "brand": "Paco Rabanne",
+    "description": "Ele é o homem em sua plena força, o herói absoluto: Invictus. Desafiado e abençoado pelos deuses, ele tem cheiro de vitória. O Paco Rabanne Invictus Eau de Toilette é uma combinação arrebatadora de frescor penetrante e sensualidade animal. Duas forças que nada (nem ninguém) consegue resisti",
+    "price": 34.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/22_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/invictus-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.513856050379175,
+    "reviews": 33
+  },
+  {
+    "id": "gid://shopify/Product/7807412764751",
+    "name": "ASAD LATTAFA",
+    "brand": "Lattafa",
+    "description": " Lattafa Asad traz uma combinação vibrante de pimenta e abacaxi, segue para um coração quente de patchouli, café e íris, e finaliza com uma base adocicada e resinoso-amadeirada. Seu desempenho é forte e duradouro, lembrando o Sauvage Elixir",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/33_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/asad-lattafa",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.230902749468423,
+    "reviews": 94
+  },
+  {
+    "id": "gid://shopify/Product/7807410929743",
+    "name": "212 VIP BLACK NYC EAU DE PARFUM",
+    "brand": "carolina herrera",
+    "description": " O 212 VIP Black traz o contraste entre o intenso absinto e a delicada lavanda, trazendo uma ousadia confiante e uma execução destemida, enquanto os tons de almíscar escuro e baunilha criam uma execução sedutoramente suave.",
+    "price": 44.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/26_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/212-vip-black-nyc-eau-de-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.773408363262979,
+    "reviews": 138
+  },
+  {
+    "id": "gid://shopify/Product/7807407128655",
+    "name": "SCUDERIA FERRARI BLACK EAU DE TOILLETE",
+    "brand": "Scuderia",
+    "description": "Aromático Fougère com toque cítrico e amadeirado essa fragrância representa o espírito esportivo e vibrante da escuderia Ferrari, sendo refrescante, energizante e levemente sofisticada.",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/20_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/scuderia-ferrari-black-eau-de-toillete",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.165686523677298,
+    "reviews": 54
+  },
+  {
+    "id": "gid://shopify/Product/7847032717391",
+    "name": "ULTRA MALE EAU DE TOILETTE",
+    "brand": "Jean Paul Gaultier",
+    "description": "Ultra Male é uma fragrância masculina intensa, ousada e sedutora, perfeita para homens que gostam de chamar atenção. Sua abertura fresca e adocicada, com notas frutadas e especiadas, se mistura a um coração envolvente de lavanda e canela, finalizando em uma base quente e sensual de baunilha e âmbar. Um perfume viciante que transmite confiança e magnetismo.\n\n✨ Ocasiões ideais\n • Baladas e festas noturnas\n • Encontros românticos\n • Climas frios ou ambientes climatizados\n • Situações em que você quer se destacar com presença marcante\n\n🌿 Notas olfativas\n • Notas de saída: pera, lavanda, limão, hortelã, bergamota\n • Notas de coração: canela, sálvia, alcarávia\n • Notas de fundo: baunilha, âmbar, patchouli, cedro\n\n⏳ Fixação\n\nExcelente fixação (8 a 12 horas na pele), com projeção alta nas primeiras horas, garantindo destaque absoluto em ambientes sociais.",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/Designsemnome_4_400x300_crop_center.png?v=1758061039",
+    "product_url": "https://floryn.com.br/products/ultra-male-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.708633977626531,
+    "reviews": 75
+  },
+  {
+    "id": "gid://shopify/Product/7847031832655",
+    "name": "PHANTOM PARFUM RABANNE",
+    "brand": "Paco Rabanne",
+    "description": "Phantom Parfum é a versão mais intensa e sofisticada da linha icônica da Paco Rabanne. Uma fragrância ousada e magnética, que combina especiarias vibrantes, notas amadeiradas profundas e um toque cremoso adocicado, criando uma assinatura moderna e envolvente. Perfeito para homens confiantes que gostam de se destacar com elegância e atitude.\n\n✨ Ocasiões ideais\n • Festas, baladas e eventos noturnos\n • Encontros marcantes e ocasiões especiais\n • Climas frios ou ambientes climatizados\n • Quando você quer presença e impacto duradouro\n\n🌿 Notas olfativas\n • Notas de saída: limão, bergamota, cardamomo\n • Notas de coração: lavanda, patchouli, ruibarbo\n • Notas de fundo: baunilha, vetiver, cedro\n\n⏳ Fixação\n\nExcelente fixação (8 a 12 horas na pele), com projeção intensa nas primeiras horas e rastro marcante, ideal para noites inesquecíveis.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/41_400x300_crop_center.png?v=1758060419",
+    "product_url": "https://floryn.com.br/products/phantom-parfum-rabanne",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "evening"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "strong",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.9743195885060665,
+    "reviews": 84
+  },
+  {
+    "id": "gid://shopify/Product/7847030423631",
+    "name": "ASAD BOURBON",
+    "brand": "Lattafa",
+    "description": "Asad Bourbon é uma fragrância masculina intensa e envolvente, criada para homens que transmitem confiança e poder. Sua abertura quente e especiada se mistura a um coração adocicado e sedutor, finalizando com notas amadeiradas profundas que garantem presença marcante. Ideal para quem busca um perfume de personalidade forte e assinatura inesquecível.\n\n✨ Ocasiões ideais\n • Encontros noturnos e ocasiões especiais\n • Festas e baladas\n • Climas mais frios ou ambientes climatizados\n • Momentos em que você quer chamar atenção com presença forte\n\n🌿 Notas olfativas\n • Notas de saída: pimenta preta, tabaco e bergamota\n • Notas de coração: café, patchouli e íris\n • Notas de fundo: âmbar, baunilha e madeiras orientais\n\n⏳ Fixação\n\nExcelente fixação (8 a 12 horas na pele), com projeção intensa nas primeiras horas, perfeito para noites marcantes.",
+    "price": 29.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/39_400x300_crop_center.png?v=1758060135",
+    "product_url": "https://floryn.com.br/products/asad-bourbon",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.085493290075287,
+    "reviews": 20
+  },
+  {
+    "id": "gid://shopify/Product/7844278042703",
+    "name": "SAUVAGE EXILIR",
+    "brand": "Dior",
+    "description": "Sauvage Elixir é uma fragrância extraordinariamente* concentrada mergulhada no frescor emblemático de Sauvage com um coração inebriante de especiarias, uma essência de Lavanda \"feita sob medida\" e uma mistura de madeiras ricas formando a assinatura de sua trilha poderosa, pródiga e cativante. Esta concentração foi possibilitada pela qualidade excepcional das matérias-primas: Sauvage Elixir é uma fragrância tão única e rara como uma lua vermelha no céu noturno. ",
+    "price": 74.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/3_6036fa8f-a04a-4ca9-a801-37c0e24b7441_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/sauvage-exilir",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "all-day"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "moderate",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.799522975683318,
+    "reviews": 27
+  },
+  {
+    "id": "gid://shopify/Product/7821244104783",
+    "name": "JEAN PAUL SCANDAL ABSOLU PARFUM",
+    "brand": "Jean Paul Gaultier",
+    "description": "Scandal Absolu é um convite à sedução intensa. Sua alma gourmand começa com a doçura viciante da ameixa Mirabelle, abraçada por um coração cremoso de castanha e ancorada por um fundo quente e refinado de sândalo. Com alta concentração de essências, oferece uma projeção poderosa e longa fixação, ideal para dominar a presença em festas, encontros românticos ou eventos noturnos requintados. O frasco imponente, laqueado em dourado com uma aura extravagante, reforça sua imagem de audácia e elegância. Perfeito para quem busca um perfume que exale confiança, sofisticação e provoca desejo.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/23_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/jean-paul-scandal-absolu-parfum",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "evening"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "strong",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.640140134681602,
+    "reviews": 126
+  },
+  {
+    "id": "gid://shopify/Product/7807410045007",
+    "name": "ANIMALE FOR MEN EAU DE TOILETTE",
+    "brand": "Animale",
+    "description": "Animale EDT é uma fragrância oriental especiada que combina frescor frutado com um fundo quente e amadeirado. Ao abrir, apresenta notas cítricas vibrantes de limão, lima e abacaxi, misturadas a um toque aromático de néroli e lavanda. No coração, revela um mix sofisticado de especiarias, como noz-moscada e cacau, junto com o floral lírio-do-vale. Sua base é marcante e duradoura, com madeiras como cedro e sândalo, além de âmbar, almíscar e nuances de couro e tabaco, que conferem um ar sensual e envolvente. É um perfume com boa fixação e projeção, ideal para homens que buscam uma fragrância versátil para ocasiões noturnas ou formais, mas que também funciona bem durante o dia em climas mais frescos.",
+    "price": 19.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/21_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/animale-for-men-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.777065388866559,
+    "reviews": 128
+  },
+  {
+    "id": "gid://shopify/Product/7807409324111",
+    "name": "SAUVAGE EAU DE TOILETTE",
+    "brand": "Dior",
+    "description": " O perfume masculino Sauvage Eau de Toilette é um ato de criação inspirado no ar livre. Um céu azul de ozônio dominando um deserto mineral incandescente. O hálito cítrico em overdose de Sauvage EDT é fortemente apoiado pela nobreza âmbar do ambroxan, elemi resinoso e madeiras de ligação. Reconhecível entre todos, é um verdadeiro rastro de assinatura que se impôs, único *, na sua virilidade assumida. Como um hálito intenso e fresco, o perfume amadeirado masculino, Sauvage Dior Eau de Toilette, é uma composição direta para um homem autêntico e verdadeiro.",
+    "price": 49.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/25_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/sauvage-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.4684666573408744,
+    "reviews": 179
+  },
+  {
+    "id": "gid://shopify/Product/7807406374991",
+    "name": "PHANTOM EAU DE TOILETTE",
+    "brand": "Paco Rabanne",
+    "description": "Descubra PHANTOM EDT: a fragrância masculina magnética de Rabanne. PHANTOM EDT liberta sua alma rebelde para cativar à primeira vista. Sua assinatura masculina única é uma mistura hipnótica de lavanda cremosa, limão energizante e baunilha viciante.",
+    "price": 39.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/7_2137abc3-041c-4dba-90d8-79302cffa595_400x300_crop_center.png?v=1757793335",
+    "product_url": "https://floryn.com.br/products/phantom-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.367789261638509,
+    "reviews": 167
+  },
+  {
+    "id": "gid://shopify/Product/7807405785167",
+    "name": "BLEU DE CHANEL EAU DE TOILETTE",
+    "brand": "Chanel",
+    "description": "Um tributo à liberdade masculina em uma fragrância amadeirada aromática com rastro cativante. Um perfume atemporal, mantido em um frasco de cor azul profunda e misteriosa. BLEU DE CHANEL Eau de Toilette expressa uma elegância simples e intensa. BLEU DE CHANEL Eau de toilette é um fragrância amadeirada aromática na qual o sândalo da Nova Caledônia encontra o sopro seco do cedro e a vivacidade da nota cítrica. Fresca e energética, ela deixa um rastro vibrante e revigorante. A cor de um futuro que é seu para moldar. BLEU DE CHANEL é o perfume para quem recusa o confinamento e a conformidade de um destino predeterminado. Sua composição expressa o espírito de um homem consumido por uma missão: a busca de um horizonte sem ponto de fuga, que se estende até o infinito.",
+    "price": 59.99,
+    "image": "https://cdn.shopify.com/s/files/1/0651/5893/8703/files/27_400x300_crop_center.png?v=1757792668",
+    "product_url": "https://floryn.com.br/products/bleu-de-chanel-eau-de-toilette",
+    "category": "perfume",
+    "occasions": [
+      "daily",
+      "work"
+    ],
+    "time_of_day": [
+      "morning",
+      "afternoon"
+    ],
+    "olfactory_family": "fresh",
+    "intensity": "light",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "top_notes": [
+      "bergamota",
+      "limão"
+    ],
+    "heart_notes": [
+      "jasmim",
+      "rosa"
+    ],
+    "base_notes": [
+      "sândalo",
+      "almíscar"
+    ],
+    "gender": "M",
+    "available": true,
+    "rating": 4.599409586979013,
+    "reviews": 161
+  }
+]

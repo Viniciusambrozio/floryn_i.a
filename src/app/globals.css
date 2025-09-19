@@ -10,6 +10,8 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-floryn-primary: #9fb397;
+  --color-floryn-primary-dark: #8a9e82;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -23,4 +25,37 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Floryn Brand Colors */
+.text-floryn-primary {
+  color: #9fb397;
+}
+
+.bg-floryn-primary {
+  background-color: #9fb397;
+}
+
+.bg-floryn-primary-dark {
+  background-color: #8a9e82;
+}
+
+.border-floryn-primary {
+  border-color: #9fb397;
+}
+
+.ring-floryn-primary {
+  --tw-ring-color: #9fb397;
+}
+
+.hover\:bg-floryn-primary-dark:hover {
+  background-color: #8a9e82;
+}
+
+.hover\:border-floryn-primary\/50:hover {
+  border-color: rgba(159, 179, 151, 0.5);
+}
+
+.bg-floryn-primary\/10 {
+  background-color: rgba(159, 179, 151, 0.1);
 }
