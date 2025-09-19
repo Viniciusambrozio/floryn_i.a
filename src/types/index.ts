@@ -107,7 +107,8 @@ export const QUIZ_STEPS: QuizStep[] = [
       { value: 'citrus', label: 'Cítrico', description: 'Limão, bergamota, laranja...' },
       { value: 'woody', label: 'Amadeirado', description: 'Sândalo, cedro, patchouli...' },
       { value: 'oriental', label: 'Orientais', description: 'Baunilha, âmbar, especiarias...' },
-      { value: 'fresh', label: 'Frescos', description: 'Marinho, menta, eucalipto...' }
+      { value: 'fresh', label: 'Frescos', description: 'Marinho, menta, eucalipto...' },
+      { value: 'sweet', label: 'Doce', description: 'Caramelo, chocolate, mel...' }
     ]
   },
   {
