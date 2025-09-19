@@ -6,6 +6,7 @@ import { ChevronLeft, ChevronRight, Check } from 'lucide-react';
 import { useAppStore, trackEvent } from '@/store/useAppStore';
 import { QUIZ_STEPS, QuizAnswers, Product } from '@/types';
 import { getRecommendations } from '@/lib/recommendation';
+import Header from '@/components/Header';
 
 export default function QuizFlow() {
   const {
@@ -119,14 +120,7 @@ export default function QuizFlow() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: '#9FB397' }}>
       {/* Header */}
-      <header className="w-full px-4 py-4">
-        <div className="flex justify-between items-center">
-          <div className="h-8"></div>
-          <div className="text-sm" style={{ color: '#EBE3CF' }}>
-            Olá, {userProfile?.name}!
-          </div>
-        </div>
-      </header>
+      <Header userProfile={userProfile} />
 
       {/* Progress Bar */}
       <div className="px-4 mb-6">

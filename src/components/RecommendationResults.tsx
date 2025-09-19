@@ -5,6 +5,7 @@ import { ExternalLink, RefreshCw, Trash2, Heart } from 'lucide-react';
 import { useAppStore, trackEvent } from '@/store/useAppStore';
 import { generateUTMUrl } from '@/lib/recommendation';
 import { useHydration } from '@/hooks/useHydration';
+import Header from '@/components/Header';
 
 export default function RecommendationResults() {
   const {
@@ -68,23 +69,11 @@ export default function RecommendationResults() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: '#9FB397' }}>
       {/* Header */}
-      <header className="w-full px-4 py-4">
-        <div className="flex justify-between items-center">
-          <div className="h-8"></div>
-          <div className="flex items-center gap-3">
-            <span className="text-sm" style={{ color: '#EBE3CF' }}>
-              Olá, {userProfile?.name}!
-            </span>
-            <button
-              onClick={handleClearProfile}
-              className="p-2 text-white/60 hover:text-red-300 transition-colors"
-              title="Limpar perfil"
-            >
-              <Trash2 className="w-4 h-4" />
-            </button>
-          </div>
-        </div>
-      </header>
+      <Header 
+        userProfile={userProfile}
+        showClearProfileButton={true}
+        onClearProfile={handleClearProfile}
+      />
 
       {/* Results */}
       <main className="px-4 pb-8">

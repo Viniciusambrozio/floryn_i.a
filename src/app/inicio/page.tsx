@@ -8,6 +8,7 @@ import { useHydration } from '@/hooks/useHydration';
 import ProfileModal from '@/components/ProfileModal';
 import QuizFlow from '@/components/QuizFlow';
 import RecommendationResults from '@/components/RecommendationResults';
+import Header from '@/components/Header';
 
 export default function Home() {
   const [showProfileModal, setShowProfileModal] = useState(false);
@@ -73,27 +74,11 @@ export default function Home() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: '#9FB397' }}>
       {/* Header */}
-      <header className="w-full px-4 py-4">
-        <div className="flex justify-between items-center">
-          <div></div>
-          <div className="flex items-center gap-3">
-            {userProfile && (
-              <div className="text-sm" style={{ color: '#EBE3CF' }}>
-                Olá, {userProfile.name}!
-              </div>
-            )}
-            {(isQuizStarted || isQuizCompleted) && (
-              <button
-                onClick={resetQuiz}
-                className="text-xs px-3 py-1 bg-white/20 hover:bg-white/30 rounded-full transition-colors"
-                style={{ color: '#EBE3CF' }}
-              >
-                Reiniciar
-              </button>
-            )}
-          </div>
-        </div>
-      </header>
+      <Header 
+        userProfile={userProfile}
+        showResetButton={isQuizStarted || isQuizCompleted}
+        onReset={resetQuiz}
+      />
 
       {/* Hero Section */}
       <main className="px-4 py-8">
